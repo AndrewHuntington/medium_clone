@@ -1,8 +1,10 @@
-# Medium Clone
+# Medium Clone (Full Stack Blog App)
 
-This is a clone (sort of) of the popular blogging website Medium. I may use it to bootstrap my own blog in the near future.
+This is a simplified clone of the popular blogging website Medium. I may use it to bootstrap my own blog in the near future.
 
-[Live Demo (TBA)]()
+Powered by Next.js and TypeScript on the frontend. The backend is provided by Sanity.io.
+
+[Live Demo](https://medium-clone-andrewhuntington.vercel.app/)
 
 ![Project screenshot](/public/screenshot.png)
 
