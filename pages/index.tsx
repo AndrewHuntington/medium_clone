@@ -33,8 +33,6 @@ interface Props {
 }
 
 const Home: NextPage<Props> = ({ posts }) => {
-  console.log(posts);
-
   return (
     <div className="mx-auto max-w-7xl">
       <Head>

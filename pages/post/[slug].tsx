@@ -96,7 +96,6 @@ const Post: NextPage<Props> = ({ post }: Props) => {
       body: JSON.stringify(data),
     })
       .then(() => {
-        console.log(data);
         setSubmitted(true);
       })
       .catch((err) => {
