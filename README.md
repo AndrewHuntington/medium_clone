@@ -1,6 +1,24 @@
-# Next.js + Tailwind CSS Example
+# Medium Clone
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This is a clone (sort of) of the popular blogging website Medium. I may use it to bootstrap my own blog in the near future.
+
+[Live Demo (TBA)]()
+
+![Project screenshot](/public/screenshot.png)
+
+## 🛠 Tech Stack
+
+- TypeScript
+- JavaScript
+- NextJS
+- React
+- Tailwind CSS
+- Sanity
+
+### Starting the Project
+
+Install the dependencies with `npm i` or `yarn`<br/>
+Start the project by `npm run dev` or `yarn dev`
 
 ## Deploy your own
 
